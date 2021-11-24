@@ -1,4 +1,4 @@
-# Beginners Sports Analytics NFL Dataset
+# Detailed NFL Play-by-Play Data
 
 This project is a part of the Knowledge Discovery in Databases (ITCS-6162) course under the Computer Science department of University of North Carolina at Charlotte.
 
@@ -7,7 +7,7 @@ This project is a part of the Knowledge Discovery in Databases (ITCS-6162) cours
 ## Project Domain: Sports 
 
 ## Dataset / Resource: NFL Big Data 
-https://www.kaggle.com/aryashah2k/beginners-sports-analytics-nfl-dataset/tasks?taskId=5085
+https://www.kaggle.com/maxhorowitz/nflplaybyplay2009to2016
 
 ## Project Proposal:
 The purpose of our project is to perform visualization and Exploratory Data Analysis on the dataset. We can analyse an entity based on the factors contributing to it. 
@@ -22,6 +22,6 @@ The purpose of our project is to perform visualization and Exploratory Data Anal
 7. Mansi Parkhi
 
 ## Future Works:
-We will start by looking at the games in the 2018 NFL season. Then, we will move onto looking at the player statistics in order to understand the players in the season. We will also look at the plays of the NFL season and finally, build a data visualization project where we will be visualizing the American Football Field and players on top of it. 
+We will start by looking at the games in the 2009-2018 NFL season. Then, we will move onto looking at the player statistics in order to understand the players in the season. We will also look at the plays of the NFL season and finally, build a data visualization project where we will be visualizing the American Football Field and players on top of it. 
 
 
