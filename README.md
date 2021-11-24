@@ -23,7 +23,7 @@ The purpose of our project is to perform visualization and Exploratory Data Anal
 
 ## Data Analysis
 
-In this project we have used 2009-2016 dataset as it was Renamed as Data.CSV.
+In this project we have used 2009-2016(NFL Play by Play 2009-2016) dataset as it was Renamed as Data.CSV.
 
 
 ## Future Works:
