@@ -2,7 +2,9 @@
 
 This project is a part of the Knowledge Discovery in Databases (ITCS-6162) course under the Computer Science department of University of North Carolina at Charlotte.
 
-## Project Status: In Progress.
+## Project Status: https://drive.google.com/file/d/1hyWsv_tXhCVFdaHTZEomnOhR-gJYVGEQ/view?usp=sharing.
+
+## Youtube Link For Project Presentation: https://youtu.be/VMcdk5pveJg
 
 ## Project Domain: Sports 
 
@@ -28,5 +30,8 @@ In this project we have used 2009-2016(NFL Play by Play 2009-2016) dataset as it
 
 ## Future Works:
 We will start by looking at the games in the 2009-2018 NFL season. Then, we will move onto looking at the player statistics in order to understand the players in the season. We will also look at the plays of the NFL season and finally, build a data visualization project where we will be visualizing the American Football Field and players on top of it. 
+
+## Conclusion:
+The purpose of this project is to explore NFL data from 2009-2017. In this project, We have loaded, explored, cleaned and modelled the data in order to anticipate the play type of the Football team named - 'Cleveland Browns' . Following that, We have checked if any adjustments can be made to fine-tune our best model.
 
 
