@@ -17,13 +17,14 @@ https://www.kaggle.com/maxhorowitz/nflplaybyplay2009to2016
 The purpose of our project is to perform visualization and Exploratory Data Analysis on the dataset. We can analyse an entity based on the factors contributing to it. 
 
 ## Team Members:
-1. Sowri Madduru
-2. Karthik Mandadi
-3. Shanmukh Kanneganti
-4. Harshita Gupta
-5. Harshitha Yata
-6. Lokesh Chowdary Vemula
-7. Mansi Parkhi
+1. Mansi Parkhi
+2. Sowri Madduru
+3. Karthik Mandadi
+4. Shanmukh Kanneganti
+5. Harshita Gupta
+6. Harshitha Yata
+7. Lokesh Chowdary Vemula
+
 
 ## Data Analysis
 
