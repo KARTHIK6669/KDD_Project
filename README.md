@@ -2,9 +2,11 @@
 
 This project is a part of the Knowledge Discovery in Databases (ITCS-6162) course under the Computer Science department of University of North Carolina at Charlotte.
 
-## Project Status: https://drive.google.com/file/d/1hyWsv_tXhCVFdaHTZEomnOhR-gJYVGEQ/view?usp=sharing.
+## Project Status: 
+https://drive.google.com/file/d/1hyWsv_tXhCVFdaHTZEomnOhR-gJYVGEQ/view?usp=sharing.
 
-## Youtube Link For Project Presentation: https://youtu.be/VMcdk5pveJg
+## Youtube Link For Project Presentation: 
+https://youtu.be/VMcdk5pveJg
 
 ## Project Domain: Sports 
 
